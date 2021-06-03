@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords Justices, a proclamation. Tho. Cantuar. J. Sommers C.S. Pembroke C.P.S. Shrewsbury. Whereas by an Act made the last session of Parliament, intituled, An Act for the encrease and encouragement of seamen. It was, amongst other things, enacted, that all and every able mariner, seaman, waterman, fisherman, ...</title>
+            <author>England and Wales. Lords Justices.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21793</idno><idno type="EEBO-CITATION">99886080_190151</idno>
+  <idno type="VID">190151</idno>
+  <idno type="EEBO-PROQUEST">2264214808</idno>
+  
+            <idno type="STC">Wing E935</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.3[121]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.24[65]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[205]</idno>
+            <idno type="STC">ESTC R225370</idno>
+            <idno type="PROQUEST">ocm99886080</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886080e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21793)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190151)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:3[122]; C15:2[65]; C18:2[205])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords Justices, a proclamation. Tho. Cantuar. J. Sommers C.S. Pembroke C.P.S. Shrewsbury. Whereas by an Act made the last session of Parliament, intituled, An Act for the encrease and encouragement of seamen. It was, amongst other things, enacted, that all and every able mariner, seaman, waterman, fisherman, ...</title>
+                  <author>England and Wales. Lords Justices.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, and the executrix of Thomas Newcomb, deceas'd; printers to the King's most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at our court at Whitehall, the tenth day of August, 1696. In the eighth year of His Majesties reign.</note>
+                  <note>Recites provisions of Act for the encrease and encouragement of seamen. The office for registering subjects capable of sea-service and willing to enter is on Tower-Hill in London, and the collectors of the customs at the ports are appointed 'Registers' for the purpose. -- Steele.</note>
+                  <note>Steele notation: Arms 124  and for or.</note>
+                  <note>Filmed copy at UMI Tracts Supplement reel C15 followed by docket title in mss.</note>
+                  <note>Filmed copy at UMI Tract Supplement reel C18 followed by 6 sheets of miscellaneous mss.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term type="topical_term">Sailors --  English --  Health and hygine --  Early works to 1800.</term>
+               <term type="topical_term">Hospitals --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:190151:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the British royal family</figDesc>
+                  <head>
+                     <q>DIEV ET MON DROIT</q>
+                  </head>
+                  <p>W. R.</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+               </figure>By the Lords Justices, A PROCLAMATION.</head>
+            <p>
+               <hi>Tho. Cantuar. J. Sommers <hi>C. S.</hi> Pembroke <hi>C. P. S.</hi> Shrewsbury.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Act made the last Session of Parliament, Intituled, <hi>An Act for the Encrease and Encouragement of Seamen,</hi> It was, amongst other things, Enacted, That all and every able Mariner, Seaman, Waterman, Fisherman, Lighterman, Bargeman, Keélman, or Seafaring<g ref="char:EOLhyphen"/>man, being a Natural Subject of this Realm, or of any of His Majesties Dominions, or be<g ref="char:EOLhyphen"/>ing Naturalized or made a Deuizen, and above the Age of Eighteén, and under the Age of Fifty Years, and being capable of Sea Service, who should be willing to Enter himself for the Ser<g ref="char:EOLhyphen"/>vice of His Majesty and His Successors in His or Their Fleét or Navy, should by himself or any other Person by him thereunto in Writing Authorized, give in his Christian Name and Sirname, and proper Addition, together with his Age and Place of abode, unto such Officer at the Navy Office in <hi>London,</hi> or other Place, and in such manner as should be appointed by His Majesty and His Successors; by which Registring himself, such Person will become Intituled to several great Privileges and Advantages in the said Act mentioned; And by the said Act it is provided, for the better Support of the Hospital in the said Act mentioned for the Relief of Seamen, their Widows and Children, there should be paid out of the Wages of every Seaman, Serving in any of His Majesties Ships, or in any of His Subjects Ships, Sixpence a Month, to be Collected, Levied and Recovered by such Officers, and according to such Rules as should in that behalf be appointed by the Lords Commissioners of the Admiralty; And it is provided likewise, That every Seaman, at the time of his being Registred, shall bring a Certificate of his Place of abode, under the Hands of Two Iustices of the Peace of the County or Place where he lives, and to bring a like Certificate, as often as he changes the Place of his abode, to the Register, on the Penalty of loosing the Benefit of his being Regi<g ref="char:EOLhyphen"/>stred: Now for putting the said Act in Execution, We have thought fit, by the Advice of His Majesties Privy Council, to Issue this Proclamation, to give Notice that the Head Office for Registring Seamen according to the said Act, is kept on <hi>Tower-Hill</hi> in <hi>London,</hi> where all Persons qualified by the said Act, may Register themselves according to the Directions there<g ref="char:EOLhyphen"/>of; and that the Collectors of His Majesties Customs in the respective Ports of this Realm (except the Port of <hi>London)</hi> are Appointed to be the Registers for the Purposes aforesaid, in their respective Ports, and for all Places Adjacent to the same. And to the end the Persons who are to Pay the Sixpence a Month out of the Seamens Wages may know to whom to Pay the same, We have thought fit to give Notice, that the Collectors of His Majesties Customs in all Ports (except for the Port of <hi>London)</hi> are Appointed to be Receivers of the said Duty, for the Wages of all Seamen, in any Ship arrived in the said Port, or any Creek or Haven thereunto belonging. And that <hi>William Bathurst</hi>
+               <abbr>Esq;</abbr> who is Resident near the Custom-House in <hi>London,</hi> is Appointed Collector of the said Duty for the Wages of all Seamen, in any Ship arriving at the said Port of <hi>London,</hi> or any Creek or Haven belonging to the same. And for the better Recovering the said Duty, The Masters of every Ship or Vessel, are to stop the Sixpence a Month out of every Seamans Wages they Pay, and to Account for and Pay the same, as is herein before Directed. And lastly, to the end that no Seaman may be ignorant of what is expected from him, on or after his Registring himself, We have thought fit hereby to give Notice, That in his Certificate from the Iustice of the Peace, the Name, Age, Description of the Person as well of Place of Abode of every Seaman be exprest, and at or near what Sign or Remarkable Place he lives, and if a Lodger his Landlords Name: And that a like Certificate be brought as often as he shall remove. And that on such Seamans going to or returning from Sea, that he gives Notice to the Register of the Port or Place where he is Registred; for which said several Certificates from the Register, or the Iustices of the Peace, no Fee or Reward whatsoever is to be given by the said Person or Persons so Registring or Removing him or themselves as aforesaid.</p>
+            <closer>
+               <dateline>Given at the Council Chamber in <hi>Whitehall,</hi>
+                  <date>the Tenth Day of <hi>August,</hi> 1696. <hi>In the Eighth Year of His Majesties Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd; Printers to the Kings most Excellent Majesty. 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
